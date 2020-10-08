@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1493277608 source:c:\users\adria\onedrive\documentos\proyectos\lógica de porgramación\mapas k\mapas_karnaugh\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
